@@ -1,0 +1,210 @@
+Исходное слово | Перевод | Количество повторений
+я | . | 17
+ты | ration | 17
+и | and | 15
+а | a | 12
+в | in | 6
+быть | be | 6
+обычно | usually | 5
+книга | Книга | 5
+или | or | 5
+у | y | 5
+с | c | 5
+время | Time | 4
+любить | love | 4
+о | C | 4
+есть | yes | 4
+да | Yes | 4
+на | Moscow City Committee for State Registration of Real Estate Titles | 4
+бы | would | 4
+мечтать | dream | 4
+звать | name | 3
+как | as | 3
+заниматься | take up | 3
+чтение | Reading | 3
+какой | which | 3
+нравиться | like | 3
+много | many | 3
+но | Not edged | 3
+конечно | sure | 3
+какиеть | what a kakiyet | 3
+несколько | several | 3
+ещё | more | 3
+иногда | occasionally | 3
+свой | its own | 3
+выходной | Weekend | 3
+по | 110 | 3
+новый | new | 3
+привет | Hi | 2
+анна | Anna | 2
+максим | Maxim | 2
+гулять | walk | 2
+парка | PARKA | 2
+тоже | the same | 2
+читать | read | 2
+любимый | favourite | 2
+научный | Research | 2
+фантастика | Fantastic | 2
+мир | world | 2
+уэллс | wells | 2
+один | Alone | 2
+из | of | 2
+мой | my | 2
+когданибудь | someday | 2
+чтоть | what | 2
+также | also | 2
+интересный | interesting | 2
+это | is | 2
+помимо | apart from | 2
+увлекаться | get carried away | 2
+проводить | to conduct | 2
+просто | Simple | 2
+конкретный | Specific. | 2
+предпочитать | prefer | 2
+активный | active | 2
+отдых | Relaxation | 2
+спокойный | serene | 2
+весь | весь | 2
+путешествие | travel | 2
+открывать | to open | 2
+место | Yer | 2
+посетить | rèze | 2
+вот | BDT | 2
+цель | target | 2
+путешествовать | to travel | 2
+собственный | own | 2
+для | for | 2
+давать | ɡive | 2
+продолжить | continue | 2
+общение | conversation | 2
+рад | rad | 1
+знакомство | acquintance | 1
+что | what | 1
+делать | make | 1
+свободный | Free ranging | 1
+очень | very | 1
+приятно | Nice. | 1
+особенно | particularly | 1
+классика | classic | 1
+недавно | ago | 1
+перечитывать | re-read | 1
+преступление | Crime | 1
+наказание | PUNISHMENT | 1
+большой | large | 1
+склонный | Apt | 1
+к | к | 1
+война | war | 1
+герберт | Heribert | 1
+подобный | like | 1
+великолепный | great | 1
+другой | other | 1
+жанр | Genre | 1
+который | which the | 1
+последний | last | 1
+начать | to start | 1
+экспериментировать | to experiment | 1
+фэнтези | fantasy | 1
+прочитать | Read | 1
+оказаться | be | 1
+увлекательный | Try out some... | 1
+чемтый | than | 1
+фотография | a photo | 1
+запечатлевать | to imprint | 1
+красивый | beautiful | 1
+момент | patch  | 1
+какимтый | some | 1
+хобби | hobby | 1
+интересно | it is interesting | 1
+гитара | Guitar | 1
+музыка | Music | 1
+даже | even | 1
+сочинять | to compose | 1
+мелодия | Melody | 1
+семья | family | 1
+друг | friend | 1
+мы | we're | 1
+часто | is | 1
+устраивать | arrange | 1
+пикник | picnic | 1
+город | City | 1
+план | forecast | 1
+близкий | near | 1
+пока | while | 1
+ничего | Nothing | 1
+мочь | might | 1
+пойти | to go | 1
+концерт | concert | 1
+провести | mark | 1
+здорово | Yoo-hoo | 1
+попробовать | Free trial | 1
+зависеть | pend | 1
+от | from | 1
+настроение | Mood | 1
+например | for example | 1
+велосипедный | bicycle | 1
+прогулка | the walk history | 1
+вечер | evening | 1
+дом | House | 1
+фильм | movie | 1
+отдыхать | chill | 1
+хороший | Good | 1
+обожать | Adore | 1
+знакомиться | get acquainted | 1
+разный | different | 1
+культура | culture | 1
+всегда | Always | 1
+приносить | fetch | 1
+удовольствие | Pleasure | 1
+хотеть | want | 1
+париж | Париж | 1
+прогуляться | take a walk | 1
+он | ?? | 1
+узкий | narrow | 1
+улочка | street | 1
+увидеть | um, see | 1
+северный | north | 1
+сияние | BRIGHTNESS | 1
+гдеть | gdet | 1
+за | for | 1
+граница | Boundary | 1
+раз | time | 1
+италия | Italy | 1
+германия | Germany | 1
+япония | Japan | 1
+каждый | each | 1
+поездка | поездка/trip | 1
+уникальный | the unique | 1
+надеяться | look forward to | 1
+где | Where | 1
+побывать | visit. | 1
+мечта | Daydream | 1
+мечтание | мечтание | 1
+главный | main | 1
+освоить | master | 1
+иностранный | foreign | 1
+язык | language | 1
+библиотека | библиотека | 1
+уютный | cozy | 1
+окно | window | 1
+вид | type | 1
+природа | Nature | 1
+особенный | special | 1
+стать | get | 1
+профессиональный | Mesleki | 1
+музыкант | Musician | 1
+записать | record | 1
+альбом | Album | 1
+же | Wher | 1
+продолжать | go on | 1
+себя | it | 1
+горизонт | bed | 1
+начало | start | 1
+обменяться | exchange | 1
+контакт | contact | 1
+замечательный | wonderful | 1
+наш | En | 1
+номер | number of | 1
+телефон | telephone | 1
+оставить | to let the | 1
+встреча | meeting | 1
+будущее | future | 1
